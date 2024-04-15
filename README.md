@@ -26,8 +26,7 @@
      <li> <a href="https://www.dribbble.com/cesarsoyo">🏀 Dribbble</a></li>
       <li><a href="https://www.linkedin.com/in/c%C3%A9sar-ortiz-ibarra-275b811a7/">💼 LinkedIn</a></li>
           </ul>
-
-    </p>
+  </p>
   </footer>
 
 </body>
