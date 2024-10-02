@@ -22,7 +22,7 @@
       📧 Email: cesarortiz.webmaster@gmail.com<br>
       💬 Social Media:
           <ul>
-      <li><a href="https://www.instagram.com/cesarortiz.dev">📷 Instagram</a></li>
+      <li><a href="https://www.instagram.com/cezdev">📷 Instagram</a></li>
      <li> <a href="https://www.dribbble.com/cesarsoyo">🏀 Dribbble</a></li>
       <li><a href="https://www.linkedin.com/in/c%C3%A9sar-ortiz-ibarra-275b811a7/">💼 LinkedIn</a></li>
           </ul>
